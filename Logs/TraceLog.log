@@ -1,0 +1,27 @@
+[DEBUG] 2024-07-18 13:45:41.191 [main] TestNG - suiteXmlPath: "C:\Users\venkatesanm\eclipse-workspace\Automation\testng.xml"
+[TRACE] 2024-07-18 13:45:42.528 [main] Graph - [Graph] ADDING NODE BaseClass.setup(java.lang.String)[pri:0, instance:null] -1519173650
+[TRACE] 2024-07-18 13:45:42.532 [main] Graph - [Graph] ================ SORTING
+[TRACE] 2024-07-18 13:45:42.545 [main] Graph - [Graph] =============== DONE SORTING
+[TRACE] 2024-07-18 13:45:42.545 [main] Graph - [Graph] ====== SORTED NODES
+[TRACE] 2024-07-18 13:45:42.545 [main] Graph - [Graph] ====== END SORTED NODES
+[TRACE] 2024-07-18 13:45:42.554 [main] Graph - [Graph] ADDING NODE BaseClass.tearDown()[pri:0, instance:null] 1061019573
+[TRACE] 2024-07-18 13:45:42.554 [main] Graph - [Graph] ================ SORTING
+[TRACE] 2024-07-18 13:45:42.554 [main] Graph - [Graph] =============== DONE SORTING
+[TRACE] 2024-07-18 13:45:42.554 [main] Graph - [Graph] ====== SORTED NODES
+[TRACE] 2024-07-18 13:45:42.557 [main] Graph - [Graph] ====== END SORTED NODES
+[TRACE] 2024-07-18 13:45:42.599 [main] Graph - [Graph] ADDING NODE BaseClass.setup(java.lang.String)[pri:0, instance:null] -1519173650
+[TRACE] 2024-07-18 13:45:42.600 [main] Graph - [Graph] ================ SORTING
+[TRACE] 2024-07-18 13:45:42.600 [main] Graph - [Graph] =============== DONE SORTING
+[TRACE] 2024-07-18 13:45:42.600 [main] Graph - [Graph] ====== SORTED NODES
+[TRACE] 2024-07-18 13:45:42.600 [main] Graph - [Graph] ====== END SORTED NODES
+[TRACE] 2024-07-18 13:45:42.607 [main] Graph - [Graph] ADDING NODE BaseClass.tearDown()[pri:0, instance:null] 1061019573
+[TRACE] 2024-07-18 13:45:42.608 [main] Graph - [Graph] ================ SORTING
+[TRACE] 2024-07-18 13:45:42.608 [main] Graph - [Graph] =============== DONE SORTING
+[TRACE] 2024-07-18 13:45:42.608 [main] Graph - [Graph] ====== SORTED NODES
+[TRACE] 2024-07-18 13:45:42.608 [main] Graph - [Graph] ====== END SORTED NODES
+[TRACE] 2024-07-18 13:45:42.646 [main] Graph - [Graph] ADDING NODE TC_LoginTest_001.loginTest()[pri:0, instance:com.netbanking.testCases.TC_LoginTest_001@c4ed84] 225242460
+[TRACE] 2024-07-18 13:45:42.646 [main] Graph - [Graph] ADDING NODE TC_AddCustomerTest_003.addNewCustomer()[pri:0, instance:com.netbanking.testCases.TC_AddCustomerTest_003@6d9f7a80] 1535246826
+[TRACE] 2024-07-18 13:45:42.647 [main] Graph - [Graph] ================ SORTING
+[TRACE] 2024-07-18 13:45:42.668 [main] Graph - [Graph] =============== DONE SORTING
+[TRACE] 2024-07-18 13:45:42.670 [main] Graph - [Graph] ====== SORTED NODES
+[TRACE] 2024-07-18 13:45:42.670 [main] Graph - [Graph] ====== END SORTED NODES

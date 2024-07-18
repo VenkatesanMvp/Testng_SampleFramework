@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<extentreports>
+    <!-- Report Name -->
+    <configuration>
+        <reportName>ExtentReports Example</reportName>
+    </configuration>
+
+    <!-- Theme (STANDARD or DARK) -->
+    <configuration>
+        <theme>STANDARD</theme>
+    </configuration>
+
+    <!-- Document Title -->
+    <configuration>
+        <documentTitle>ExtentReports - Test Report</documentTitle>
+    </configuration>
+
+    <!-- Encoding -->
+    <configuration>
+        <encoding>UTF-8</encoding>
+    </configuration>
+
+    <!-- Chart Visibility (ON or OFF) -->
+    <configuration>
+        <chartVisibility>ON</chartVisibility>
+    </configuration>
+</extentreports>
