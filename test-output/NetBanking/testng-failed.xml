@@ -14,13 +14,6 @@
           <include name="addNewCustomer"/>
         </methods>
       </class> <!-- com.netbanking.testCases.TC_AddCustomerTest_003 -->
-      <class name="com.netbanking.testCases.TC_LoginDDT_002">
-        <methods>
-          <include name="tearDown"/>
-          <include name="loginDDT" invocation-numbers="3 4"/>
-          <include name="setup"/>
-        </methods>
-      </class> <!-- com.netbanking.testCases.TC_LoginDDT_002 -->
     </classes>
   </test> <!-- BankingApp test(failed) -->
 </suite> <!-- Failed suite [NetBanking] -->

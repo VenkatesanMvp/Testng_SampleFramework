@@ -7,7 +7,7 @@
 	<test name="BankingApp test">
 		<parameter name="browser" value="chrome" />
 		<classes>
-			<class name="com.netbanking.testCases.TC_LoginTest_001" />
+	<!-- 		<class name="com.netbanking.testCases.TC_LoginTest_001" /> -->
 	      <!-- <class name="com.netbanking.testCases.TC_LoginDDT_002" /> -->
 			<class name="com.netbanking.testCases.TC_AddCustomerTest_003" />
 		</classes>

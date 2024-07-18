@@ -21,9 +21,9 @@ public class TC_AddCustomerTest_003 extends BaseClass {
 		ExtentTest childTest = Reporting.createChildTest(TestListener.parentTest, "TC_AddCustomerTest_003");
 		LoginPage lp = new LoginPage(driver);
 		driver.manage().window().maximize();
-		lp.setUserName(UserName);
-		childTest.log(Status.INFO, "Username provided");
-		Reporting.attachScreenshotSafe(childTest, "Username provided");
+//		lp.setUserName(UserName);
+//		childTest.log(Status.INFO, "Username provided");
+//		Reporting.attachScreenshotSafe(childTest, "Username provided");
 		lp.setPassword(password);
 		childTest.log(Status.INFO, "Password provided");
 		Reporting.attachScreenshotSafe(childTest, "Password provided");
